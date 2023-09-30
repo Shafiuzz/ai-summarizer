@@ -1,6 +1,6 @@
 import React from "react";
 
-import { icons8-notes-48.png } from "../assets";
+import { icons8-notes-48 } from "../assets";
 
 const Hero = () => {
   return (
